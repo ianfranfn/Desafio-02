@@ -30,7 +30,7 @@ Se añaden los objetivos y partes que componen un análisis FODA, además de sus
 ## Datos alumno
 
 Nombre: Fariña Núñez Ian Franco
-Repo GitHub: https://github.com/ianfranfn/Desafio.01-FODA.git
+Repo GitHub: https://github.com/ianfranfn/Desafio-02.git
 Netlify: https://bespoke-belekoy-b66ed1.netlify.app/
 
 # Introducción al FODA - libre - Desafío 02
@@ -47,3 +47,13 @@ npm install
 npm run dev
 ```
 Luego se añaden los archivos Index.html y README.md del desafío 01.
+
+## Clases, fuentes y colores
+
+Se añaden los colores principales del FODA (verde, azul, amarillo y rojo) y una nueva fuente de prueba para los <h2>.
+
+```sh
+<h2 class="color-verde/azul/amarillo/rojo">texto</h2>
+<h2 class="subtitulos">texto</h2>
+```
+

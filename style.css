@@ -3,7 +3,6 @@
 h1 {
     text-align: center;
     font-size: 2.5em;
-
 }
 .subtitulos{
     font-family: "Amaranth", sans-serif;
@@ -11,15 +10,15 @@ h1 {
     font-style: normal;
     font-size: 1.7em;  
 }
-.color-rojo{
+.texto-rojo{
     color:red;
 }
-.color-verde{
+.texto-verde{
     color:green;
 }
-.color-azul{
+.texto-azul{
     color:lightseagreen;
 }
-.color-amarillo{
+.texto-amarillo{
     color:darkgoldenrod;
 }
