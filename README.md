@@ -50,7 +50,7 @@ Luego se añaden los archivos Index.html y README.md del desafío 01.
 
 ## Clases, fuentes y colores
 
-Se añaden los colores principales del FODA (verde, azul, amarillo y rojo) y una nueva fuente de prueba para los <h2> vínculada desde la página web "Google Fonts", asi como nuevas clases para resaltar textos de importancia para el lector.
+Se añaden los colores principales del FODA (verde, azul, amarillo y rojo) y una nueva fuente de prueba para los "h2" vínculada desde la página web "Google Fonts", asi como nuevas clases para resaltar textos de importancia para el lector.
 
 ```sh
 <h2 class="texto-verde/azul/amarillo/rojo"> texto </h2>
@@ -76,5 +76,12 @@ Se hace el uso de hipervínculos con otras partes de la página. Cada una tiene 
 
 ```sh
  <a href="../index.html">Inicio</a>
+ <a href="FODA/planificar.html">planificar</a>
+ <a href="FODA/matriz-foda.html">Matriz FODA</a>
 ```
 
+## Datos actualizados del alumno
+
+Nombre: Fariña Núñez Ian Franco
+Repo GitHub: https://github.com/ianfranfn/Desafio-02.git
+Netlify: 

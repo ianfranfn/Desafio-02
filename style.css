@@ -10,6 +10,13 @@ h1 {
     font-style: normal;
     font-size: 1.7em;  
 }
+.subtitulos-matriz{
+    font-family: "Amaranth", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2em; 
+    text-align: left;
+}
 .texto-rojo{
     color:red;
 }
@@ -23,6 +30,6 @@ h1 {
     color:darkgoldenrod;
 }
 .texto-resaltado{
-    color: goldenrod;
+    color: rgba(205, 158, 40, 0.929);
     font-weight: 900;
 }
