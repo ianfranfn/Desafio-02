@@ -22,3 +22,7 @@ h1 {
 .texto-amarillo{
     color:darkgoldenrod;
 }
+.texto-resaltado{
+    color: goldenrod;
+    font-weight: 900;
+}

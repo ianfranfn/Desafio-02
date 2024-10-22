@@ -50,10 +50,31 @@ Luego se añaden los archivos Index.html y README.md del desafío 01.
 
 ## Clases, fuentes y colores
 
-Se añaden los colores principales del FODA (verde, azul, amarillo y rojo) y una nueva fuente de prueba para los <h2>.
+Se añaden los colores principales del FODA (verde, azul, amarillo y rojo) y una nueva fuente de prueba para los <h2> vínculada desde la página web "Google Fonts", asi como nuevas clases para resaltar textos de importancia para el lector.
 
 ```sh
-<h2 class="color-verde/azul/amarillo/rojo">texto</h2>
+<h2 class="texto-verde/azul/amarillo/rojo"> texto </h2>
 <h2 class="subtitulos">texto</h2>
+<p class="texto-resaltado"> parte-de-parrafo </p>
+
+Fuente importada:
+
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+```
+
+## Imágenes
+
+Se añaden nuevas imágenes en formato .webp adaptadas a la página, cada una en el lugar correpondiente y con su descripción.
+
+```sh
+ <img src="/imgs/ejemplo-analisis-foda.webp" alt="Descripción de la imágen">
+```
+
+## Links
+
+Se hace el uso de hipervínculos con otras partes de la página. Cada una tiene su contenido e imágenes correspondientes para facilitar el entendimiento de la lectura, así como el uso de las clases (cuando es necesario o útil).
+
+```sh
+ <a href="../index.html">Inicio</a>
 ```
 
