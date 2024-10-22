@@ -84,4 +84,4 @@ Se hace el uso de hipervínculos con otras partes de la página. Cada una tiene 
 
 Nombre: Fariña Núñez Ian Franco
 Repo GitHub: https://github.com/ianfranfn/Desafio-02.git
-Netlify: 
+Netlify: https://dapper-zabaione-df7f45.netlify.app/
